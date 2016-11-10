@@ -13,7 +13,7 @@
 ?: When does a new student download the Learn IDE?
 
 ( ) their first lab _after_ the Welcome track
-(X) the fist lab _in_ the Welcome track
+(X) the first lab _in_ the Welcome track
 ( ) when they first get to Learn
 
 ?: If a student types 'ls' into the Learn IDE, a list of files show up. Where are those files stored?
