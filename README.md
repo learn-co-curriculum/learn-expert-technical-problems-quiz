@@ -5,16 +5,16 @@
 
 # Technical Problems Quiz
 
-?: When a user cloned a lab but can't see it in the file tree, you should first
+?: How does a student choose the browser ide as a development environment?
 
-(X) confirm that nothing is syncing
-( ) have the user quit and restart the IDE
+(X) select browser ide from learn environment
+( ) file a ticket
 
-?: When does a new student download the Learn IDE?
+?: When do we try to get students off of the learn ide?
 
-( ) their first lab _after_ the Welcome track
-(X) the first lab _in_ the Welcome track
-( ) when they first get to Learn
+( ) after the cli portfolio project
+(X) after the sinatra portfolio project
+( ) after the rails portfolio project
 
 ?: If a student types 'ls' into the Learn IDE, a list of files show up. Where are those files stored?
 
@@ -22,17 +22,17 @@
 (X) On the Learn server
 ( ) On github
 
-?: When does a new student link their Learn account with github?
+?: When is a student's work saved in the learn server?
 
-(X) their first lab _after_ the Welcome track
-( ) the fist lab _in_ the Welcome track
-( ) when they first get to Learn
+(X) when they save the file
+( ) when they learn submit
+( ) when they run learn
 
 ?: If you find a bug with the Learn IDE, how should you log it?
 
 ( ) In a google spreadsheet
 (X) With the Report a Bug option in /expert-chat
-( ) Email avidor
+( ) Email Ruth
 ( ) Post the bug in the #escalation channel
 
 ???
